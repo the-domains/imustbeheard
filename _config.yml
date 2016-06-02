@@ -1,5 +1,6 @@
-layout_spectrum: 0.9997867832425982
 typography_spectrum: 0.15812280378304422
+content_rating:
+  adult: true
 color:
   brandStrength: 0.026714168256148696
   lightness: 0.4964527045376599
@@ -11,4 +12,10 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1811159-1371-401d-ba4c-45393164e820.jpg'
+layout_spectrum: 0.9997867832425982
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1db7e12-0151-4ff2-9d8b-85ba9b4ee8e2.jpg'
 name: IMUSTBEHEARD
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/61e23298-3f6f-4b40-81a3-86ae555a1da7.jpg'
+title: VAVOICE
