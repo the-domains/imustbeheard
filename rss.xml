@@ -4,7 +4,7 @@
         <description><![CDATA[IMUSTBEHEARD]]></description>
         <link>https://thegrid.ai/imustbeheard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 15:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 15:39:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/imustbeheard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/imustbeheard/4df0bbef-afd1-4590-94f4-4aa4d0613eaa/index.html</link>
             <guid isPermaLink="false">4df0bbef-afd1-4590-94f4-4aa4d0613eaa</guid>
             <pubDate>Thu, 02 Jun 2016 15:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e67d023b-40f0-46f8-8746-47cdc4ab7c38.jpg">]]></description>
-            <link>https://thegrid.ai/imustbeheard/c7a39434-d77d-4437-9b8c-ffbc02c52706/index.html</link>
-            <guid isPermaLink="false">c7a39434-d77d-4437-9b8c-ffbc02c52706</guid>
-            <pubDate>Thu, 02 Jun 2016 15:34:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
